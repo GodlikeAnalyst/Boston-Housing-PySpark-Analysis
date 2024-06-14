@@ -17,6 +17,6 @@ The dataset includes the following attributes:
 3. Results and Analysis: Examine the output of your output, which should contain statistics for each bin. Create visualizations (e.g., bar charts and more) to represent the calculated statistics. Interpret the results and provide insights about the relationship between the number of rooms (“RM”) and the median value (“MEDV”) of homes in different bins.
 
 ## Repository Contents
--Boston_Housing_PySpark_Analysis.ipynb: This Jupyter notebook contains the PySpark code used for the analysis.
--Boston_Housing_Analysis_Report.pdf: This PDF report summarizes the findings of the analysis, including visualizations and interpretations.
--BostonHousing.csv: This csv contains the dataset.
+Boston_Housing_PySpark_Analysis.ipynb: This Jupyter notebook contains the PySpark code used for the analysis.
+Boston_Housing_Analysis_Report.pdf: This PDF report summarizes the findings of the analysis, including visualizations and interpretations.
+BostonHousing.csv: This csv contains the dataset.
